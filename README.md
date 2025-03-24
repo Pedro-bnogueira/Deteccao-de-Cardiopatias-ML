@@ -47,18 +47,20 @@ A solução desenvolvida envolve as seguintes etapas:
 ## Estrutura de Arquivos
 
 ```plaintext
-├── main.ipynb               # Notebook principal integrando todo o pipeline
-├── plots   # Imagens dos resultados de pré-processamento e análises realizadas ao longo do notebook
-├── plots   # Reports de estatísticas descritivas e inconsistências encontradas na análise de dados
-├── scripts
-   └── preprocessamento.py      # Pipeline de pré-processamento de dados
-   └── analise_exploratoria.py  # Rotinas de análise exploratória (EDA)
-   └── experimentos.py          # Treinamento e validação dos modelos
-   └── analise_resultados.py    # Consolidação e visualização dos resultados
-├── Relatorio_FInal_ML.pdf   # Relatório final detalhando metodologia e resultados
-├── submissao_final.csv   # Arquivo de submissao do projeto no Kaggle (utilizado no entrega do projeto da dsiciplina)
-├── treino_pre_processado.csv   # Arquivo de dados de treino pré processados
-└── README.md               
+├── IMPEMENTACAO
+   ├── main.ipynb               # Notebook principal integrando todo o pipeline
+   ├── plots   # Imagens dos resultados de pré-processamento e análises realizadas ao longo do notebook
+   ├── plots   # Reports de estatísticas descritivas e inconsistências encontradas na análise de dados
+   ├── scripts
+      └── preprocessamento.py      # Pipeline de pré-processamento de dados
+      └── analise_exploratoria.py  # Rotinas de análise exploratória (EDA)
+      └── experimentos.py          # Treinamento e validação dos modelos
+      └── analise_resultados.py    # Consolidação e visualização dos resultados
+   ├── Relatorio_FInal_ML.pdf   # Relatório final detalhando metodologia e resultados
+   ├── submissao_final.csv   # Arquivo de submissao do projeto no Kaggle (utilizado no entrega do projeto da dsiciplina)
+   ├── treino_pre_processado.csv   # Arquivo de dados de treino pré processados
+├── Relatorio_Final_ML.pdf # Relatório completo do projeto
+├── README.md               
 ```         
 
 ## Conjunto de Dados
