@@ -228,12 +228,19 @@ Os métodos ensemble (principalmente Gradient Boosting) obtiveram:
 ---
 ## Referências
 [1] Smith, J., & Doe, A. (2021). Early Detection of Pediatric Heart Diseases. Journal of Pediatric Cardiology, 15(3), 234-245.
+
 [2] Johnson, L., & Wang, Y. (2020). Machine Learning Applications in Medical Diagnostics. IEEE Transactions on Biomedical Engineering, 67(4), 1123-1132.
+
 [3] Miller, T., & Brown, K. (2019). Ensemble Learning for ECG Based Cardiac Anomaly Detection. International Journal of Artificial Intelligence in Healthcare, 8(2), 98-110.
+
 [4] Lima, M., & Oliveira, S. (2018). Classification Models for Cardiac Diagnosis in Pediatric Age Groups. XXX Symposium on Machine Learning, 25-30.
+
 [5] Fernandes, D., & Silva, E. (2021). Data Preprocessing Techniques for Enhancing Machine Learning Models in Medical Data. Journal of Data Science in Medicine, 5(1), 45-60.
+
 [6] Powers, D. M. (2020). Evaluation: From Precision, Recall and F-Measure to ROC, Informedness, Markedness and Correlation. Journal of Machine Learning Technologies, 2(1), 37-63.
+
 [7] Bootkrajang, J., & Kabán, A. (2013). Boosting in the Presence of Label Noise. Proceedings of the Twenty-Ninth Conference on Uncertainty in Artificial Intelligence (UAI2013), 82-91.
+
 [8] Guyon, I., & Elisseeff, A. (2003). An Introduction to Variable and Feature Selection. Journal of Machine Learning Research,3, 1157-1182.
 
 ## **Observação Importante**
