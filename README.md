@@ -159,6 +159,7 @@ Segundo o relatório final (*Relatorio_FInal_ML.pdf*), os métodos ensemble demo
 ```bash
 git clone https://github.com/Pedro-bnogueira/Deteccao-de-Cardiopatias-ML.git
 cd Deteccao-de-Cardiopatias-ML
+cd IMPLEMENTACAO
 ````
 
 **Instalar Dependências**
