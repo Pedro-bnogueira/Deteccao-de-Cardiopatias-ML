@@ -207,15 +207,15 @@ Os métodos ensemble (principalmente Gradient Boosting) obtiveram:
 ### Visualizações
 
 **Distribuição das Variáveis**
-![Histograma Geral](/plots/histograma-geral.png)
+![Histograma Geral](/IMPLEMENTACAO/plots/histograma-geral.png)
 
 **Comparação de Modelos**
 
-![Comparação de modelos](/plots/desempenho-modelos.png)
+![Comparação de modelos](/IMPLEMENTACAO/plots/desempenho-modelos.png)
 
 **Curva de Aprendizado (Gradient Boosting)**
 
-![Curva de Aprendizado (Gradient Boosting)](/plots/curva-aprendizado.png)
+![Curva de Aprendizado (Gradient Boosting)](/IMPLEMENTACAO/plots/curva-aprendizado.png)
 
 ---
 ## Conclusões
